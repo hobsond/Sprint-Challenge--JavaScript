@@ -1,0 +1,16 @@
+
+1. Describe the biggest difference between `.forEach` & `.map`.
+They will both itterate through each element but map pushes to a new array
+
+2. What is the difference between a function and a method?
+a function is a global block of code waiting to be invoked while a method 
+is a property of an object
+
+
+3. What is closure?
+closure gives you the ability to combine functions and you can code identified else where
+
+4. Describe the four rules of the 'this' keyword.
+window, implicit,explicit,new
+5. Why do we need super() in an extended class?
+super replaces the .call to gain the the attributes of the parent class.
